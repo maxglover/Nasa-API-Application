@@ -26,7 +26,7 @@ const APOD = () => {
     return (
         <div className='container'>
             <div className='header'>
-                <p><Link className='custom-link' to={`/ed`}>constellation</Link></p>
+                <p><Link className='custom-link' to={`/view`}>constellation</Link></p>
                 <h1>Astro</h1>
                 <p><Link className='custom-link' to={`/telescope`}>telescope</Link></p>
             </div>
